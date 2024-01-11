@@ -28,9 +28,11 @@ const Contact = () => {
     return (
         <section id="contactPage">
             <div id="clients">
-               <h1 className="contactPageTitle">My Clients</h1>
+               <h1 className="contactPageTitle">My Experiences</h1>
                <p className="clientDesc">
-                    I have blah blah
+                    I had the opportunity to attend the Grace Hopper Conference 2023! 
+                    I was given the opportunity to connect with many people from around the world and hear from 
+                    many companies, here are some to name a few!
                </p>
                <div className="clientImg">
                     <img src={Walmart} alt="Client" className="clientImg" />
