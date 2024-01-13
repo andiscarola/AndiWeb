@@ -22,15 +22,18 @@ const Skills = () => {
                 <img src={WebDesign} alt='WebDesign' className='skillBarImg' />
                 <div className='skillBarText'>
                     <h2>Website Design</h2>
-                    <p>This webpage was created using React.js! Alongside using JavaScript, HTMl, and CSS!</p>
+                    <p>This webpage was created using React.js! Alongside using JavaScript, HTML, and CSS!</p>
                 </div>
             </div>
             <div className='skillBar'>
                 <img src={AppDesign} alt='AppDesign' className='skillBarImg' />
                 <div className='skillBarText'>
                     <h2>Non-CS skills</h2>
-                    <p>Baking! Ive worked at a cookie shop for over a year. Volleyball! I used to travel 
-                        to play this sport back in the day! Gardening! Specifically succulents, I love cacti specifically!
+                    <p>Baking: I have accumulated over a year of experience working at a cookie shop, honing my skills in the art of baking.<br></br>
+
+Volleyball: In the past, I dedicated time to traveling for competitive play in volleyball, reflecting my passion and commitment to the sport.<br></br>
+
+Gardening: My green thumb finds its focus in the realm of succulents, with a particular affection for cacti.
                     </p>
                     </div>
                 </div>

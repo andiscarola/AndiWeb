@@ -1,5 +1,5 @@
 .navbar{
-    background: rgb(30,30,30);
+    background: rgb(42, 37, 44);
     height: 5rem;
     width: 100vw;
     max-width:75rem;
@@ -15,7 +15,7 @@
 
 .logo{
     object-fit: cover;
-    height: 3rem;
+    height: 4.13rem;
     width: 4rem;
 }
 
@@ -25,9 +25,9 @@
 
 }
 .desktopMenuListItem:hover{
-    color: rgb(122, 122, 208);
+    color: rgb(137, 99, 186);
     padding-bottom: 0.5rem;
-    border-bottom: 3px solid rgb(122, 122, 208);
+    border-bottom: 3px solid rgb(137, 99, 186);
 }
 
 .desktopMenuBtn{
@@ -48,9 +48,9 @@
 }
 
 .active{
-    color: purple;
+    color: rgb(138, 163, 153);
     padding-bottom: 0.5rem;
-    border-bottom: 3px solid purple;
+    border-bottom: 3px solid rgb(138, 163, 153);
 }
 .mobMenu{
     display: none;
@@ -68,12 +68,12 @@
     padding: 0.5rem;
     height:fit-content ;
     min-width: 15rem;
-    background: rgb(40,40,40);
+    background: rgb(137,99,186);
     border-radius: 1rem;
 }
 
 .listItem{
-    color: white;
+    color: rgb(243, 217, 220);
     padding: 0.5rem 3rem;
     margin: 0.25rem;
     background: rbg(30,30,30);

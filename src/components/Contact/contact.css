@@ -28,8 +28,8 @@
 
 .clientImg{
     object-fit: cover;
-    width: 23%;
-    min-width: 9rem;
+    width: 33%;
+    width: 50rem;
     margin: auto;
     padding: 0.25rem;  
 }
@@ -63,7 +63,7 @@
     color: white;
     border:none;
     border-radius: 0.5rem;
-    background: rgb(40,40,40);
+    background: rgb(21, 19, 22);
 }
 
 .submitBtn {
@@ -85,4 +85,10 @@
     width: 3rem;
     margin: 0 0.75rem;
     
+}
+@media screen and (max-width:500px){
+    .clientImg { 
+        height: 40vw;
+        width: 30rem;
+    }
 }
